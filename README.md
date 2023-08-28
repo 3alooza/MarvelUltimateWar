@@ -1,2 +1,2 @@
 # MarvelUltimateWar
-a simple marvel-inspired board game
+done with java for both backend and frontend
